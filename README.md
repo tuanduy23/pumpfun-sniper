@@ -15,7 +15,7 @@
 
 ## 🛠 Installation
 ```
-git clone https://github.com/yourname/pumpfun-trading-bot.git
+git clone https://github.com/tuanduy23/pumpfun-sniper.git
 cd pumpfun-trading-bot
 
 # Install required packages
