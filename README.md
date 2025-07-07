@@ -2,7 +2,7 @@
 
 ### A powerful, terminal-based Pump.fun auto-trading bot built with Node.js. It monitors newly launched tokens in real time, auto-buys based on your custom SOL threshold, and auto-sells after a delay.
 
-📌 Features
+## 📌 Features
 ✅ Real-time token tracking via WebSocket
 
 ✅ Auto-buy based on your defined SOL threshold
