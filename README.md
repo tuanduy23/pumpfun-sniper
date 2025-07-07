@@ -16,7 +16,7 @@
 ## 🛠 Installation
 ```
 git clone https://github.com/tuanduy23/pumpfun-sniper.git
-cd pumpfun-trading-bot
+cd pumpfun-sniper
 
 # Install required packages
 npm install
