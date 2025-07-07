@@ -13,7 +13,7 @@
 
 ✅ Mock trade logic included (plug in Jupiter SDK easily)
 
-🛠 Installation
+## 🛠 Installation
 ```
 git clone https://github.com/yourname/pumpfun-trading-bot.git
 cd pumpfun-trading-bot
@@ -25,9 +25,9 @@ npm install
 
 
 
-🛠 Configuration
+## 🛠 Configuration
 
-Load .env file
+### Load .env file
 ```
 PRIVATE_KEY=
 BUY_THRESHOLD_SOL=0.05
@@ -37,10 +37,10 @@ RPC_URL=https://api.mainnet-beta.solana.com
 WS_URL=wss://api.mainnet-beta.solana.com
 ```
 
-▶️ Run the Bot
+### ▶️ Run the Bot
 ```
 npm start
 ```
-Built by Tuan Tran
+### Built by Tuan Tran
 Twitter: @tuandev.aglietech
 Email: tuandev@aglietech.com
