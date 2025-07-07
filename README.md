@@ -11,7 +11,7 @@
 
 ✅ Supports .env private key (no hardcoding)
 
-✅ Mock trade logic included (plug in Jupiter SDK easily)
+![Bot Output Preview](output.png)
 
 ## 🛠 Installation
 ```
@@ -21,7 +21,7 @@ cd pumpfun-trading-bot
 # Install required packages
 npm install
 ```
-![Bot Output Preview](output.png)
+
 
 
 
