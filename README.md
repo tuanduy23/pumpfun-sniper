@@ -1,7 +1,7 @@
 # 🤖 Pump.fun Auto-Trading Sniper
 
 ### A powerful, terminal-based Pump.fun auto-trading bot built with Node.js.
-It monitors newly launched tokens in real time, auto-buys based on your custom SOL threshold, and auto-sells after a delay.
+### It monitors newly launched tokens in real time, auto-buys based on your custom SOL threshold, and auto-sells after a delay.
 
 📌 Features
 ✅ Real-time token tracking via WebSocket
