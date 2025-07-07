@@ -15,11 +15,11 @@ It monitors newly launched tokens in real time, auto-buys based on your custom S
 
 🛠 Installation
 ```
-**git clone https://github.com/yourname/pumpfun-trading-bot.git
+git clone https://github.com/yourname/pumpfun-trading-bot.git
 cd pumpfun-trading-bot
 
 # Install required packages
-npm install**
+npm install
 ```
 ![Bot Output Preview](output.png)
 
