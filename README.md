@@ -21,6 +21,10 @@ cd pumpfun-trading-bot
 # Install required packages
 npm install**
 ```
+![Bot Output Preview](output.png)
+
+
+
 🛠 Configuration
 
 Load .env file
