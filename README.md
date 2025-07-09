@@ -4,7 +4,7 @@ A powerful, terminal-based Pump.fun auto-trading bot built with Node.js. It moni
 
 ## 📌 Features 
   
-✅ Real-time token tracking via WebSocket
+✅ Real-time token tracking via WebSocket 
  
 ✅ Auto-buy based on your defined SOL threshold
 
