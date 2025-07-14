@@ -33,7 +33,7 @@ npm install
 PRIVATE_KEY=
 BUY_THRESHOLD_SOL=0.05
 SELL_DELAY_MS=100
-SUBSCRIBE_ADDRESS=51dX3g5z7b6f8e9a2c3d4e5f6b7a8b9c0d1e2f3g4
+SUBSCRIBE_ADDRESS=
 RPC_URL=https://api.mainnet-beta.solana.com
 WS_URL=wss://api.mainnet-beta.solana.com
 ```
