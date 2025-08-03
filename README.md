@@ -13,7 +13,7 @@ A powerful, terminal-based Pump.fun auto-trading bot built with Node.js. It moni
 ✅ Supports .env private key (no hardcoding)
 
 ![Bot Output Preview](output.png)
-
+ 
 ## 🛠 Installation
 ```
 git clone https://github.com/tuanduy23/pumpfun-sniper.git
