@@ -19,7 +19,7 @@ A powerful, terminal-based Pump.fun auto-trading bot built with Node.js. It moni
 git clone https://github.com/tuanduy23/pumpfun-sniper.git
 cd pumpfun-sniper
 
-# Install required packages
+# Install required packages 
 npm install
 ```
 
