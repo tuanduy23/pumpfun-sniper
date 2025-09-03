@@ -8,7 +8,7 @@ A powerful, terminal-based Pump.fun auto-trading bot built with Node.js. It moni
  
 ✅ Auto-buy based on your defined SOL threshold
 
-✅ Auto-sell after configurable delay
+✅ Auto-sell after configurable delay 
 
 ✅ Supports .env private key (no hardcoding)
 
